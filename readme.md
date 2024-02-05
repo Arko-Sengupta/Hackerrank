@@ -46,11 +46,11 @@ Welcome to Hackerrank Solution Repository!
 ## - SQL
 **These are solutions to SQL Practice Hackerrank problems**
 
-- **Contest 1:** [Link to Contest](Weekly)
-   - Problem 1  [Link to Problem](Weekly/problem1_solution.py)
-   - Problem 2  [Link to Problem](Weekly/problem2_solution.py)
-   - Problem 3  [Link to Problem](Weekly/problem3_solution.py)
-   - Problem 4  [Link to Problem](Weekly/problem4_solution.py)
+- Problem 1  [Link to Problem](Hard/problem1_solution.py)
+- Problem 2  [Link to Problem](Hard/problem2_solution.py)
+- Problem 3  [Link to Problem](Hard/problem3_solution.py)
+- Problem 4  [Link to Problem](Hard/problem4_solution.py)
+- Problem 5  [Link to Problem](Hard/problem5_solution.py)
   
 
 </br></br>
